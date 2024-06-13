@@ -1,0 +1,82 @@
+.container {
+    background-image: url('../../images/05.jpg');
+    background-size: cover; /* Ensure the background image covers the entire container */
+    background-position: center;
+    height: 100vh;
+    /* Add any other styles you need */
+}
+
+.logo {
+    width: 35px; /* Adjust width as needed */
+    height: 35px; /* Maintain aspect ratio */
+    
+    margin-left: 20px; /* Add margin to separate from text */
+}
+.navbar {
+    display: flex;
+    align-items: center; /* Align items vertically center */
+    background-color: #ffffff4d;   
+    height: 70px;
+    
+}
+.homeh2 {
+    background-color:#98ff4300;
+    margin: 20px;
+    padding-bottom: 55px;
+    color: #2e3d00;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h6 {
+    margin-left: 20px;
+    padding: 5px; /* Adjust margin */
+    cursor: pointer;
+    font-size: 15px;
+    color: #004f5d;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h6:hover {
+    color: #000000;
+}
+
+.navlink {
+    margin-left: auto; /* Move to the right */
+    margin-right: 20px; /* Add some margin from right */
+    display: flex;
+    background-color: #00000000;
+}
+
+.navright {
+    display: flex;
+    margin-left: auto; /* Move to the right */
+    margin-right: 20px; /* Add some margin from right */
+    margin-top: 20px;
+    background-color: #98ff4300;
+    margin-bottom: 25px;
+}
+
+
+hr {
+    max-width: calc(100% - 40rem); /* Adjust the width */
+    margin-top: 50px;
+}
+
+.box {
+    margin: 80px auto; /* Center the box horizontally */
+    background-color: #98ff4380;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 300rem;
+}
+
+.content {
+    padding: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+button:hover {
+    background-color:#0a9598;
+}

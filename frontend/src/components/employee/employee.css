@@ -1,0 +1,18 @@
+.card{
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+.headcards{
+    display: flex;
+    margin-left: 180px;
+    margin-right: 150px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+   
+}
+.full03{
+    background-image: url('../../images/03.jpg');
+    background-size: cover;
+    background-position-x: 60%;
+    background-position-y: 100%;
+}

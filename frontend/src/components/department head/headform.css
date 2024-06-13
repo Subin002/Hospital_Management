@@ -1,0 +1,46 @@
+.box01 {
+    padding-top: 0px; 
+}
+
+.form-container {
+    padding-bottom: 5px;
+    margin-top: 3%;
+ 
+}
+
+
+.buttons {
+    margin-bottom: 15px;
+}
+
+h2 {
+    text-align: center;
+    color: #ffffff;
+    margin: 8px;
+   
+    padding-bottom: 40px;
+    padding-top: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(255, 255, 255, 0.148);
+  
+  }
+  input {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #2ea26e;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #15b23700;
+    padding-right: 0px;
+
+  }
+
+select {
+    margin-bottom: 20px;
+    padding-top: 8.2px;
+    padding-bottom: 8.2px;
+    width: 94%;
+    border-radius: 5px;
+    border-color: #2ea2a2;
+}
